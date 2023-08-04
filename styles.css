@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(255, 255, 165);
+    background-color: white;
 }
 
 .image{
@@ -15,6 +15,13 @@ body {
     background-color: #3399FF;
     padding: 5px;
     border-radius: 5px;
+
     box-shadow: 2px 3px #acabab;
     font-family: 'Lucida Sans', 'Lucida Sans Regular';
+}
+
+#bluepar{
+    background-color: rgb(5, 5, 106);
+    color: white
+
 }
