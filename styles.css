@@ -27,3 +27,13 @@ a {
     background-color: rgb(5, 5, 106);
     color: white
 }
+
+p {
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+span {
+    background-color: rgb(255, 151, 151);
+    font-weight: bold;
+}
