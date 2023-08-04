@@ -21,3 +21,8 @@ body {
 .link-button:hover{
     background-color: rgb(162, 202, 255);
 }
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
