@@ -1,11 +1,12 @@
 body {
-    background-color: rgb(255, 255, 165);
+    background-color: white
+     (242, 242, 238);
 }
 
 .image{
-    border: 5px solid green;
+    border: 10px dashed lightskyblue;
     border-radius: 10px;
-    height: 400px;
+    height: 500px;
 }
 
 .link-button {
