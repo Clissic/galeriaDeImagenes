@@ -3,9 +3,9 @@ body {
 }
 
 .image{
-    border: 5px solid green;
+    border: 10px dashed lightskyblue;
     border-radius: 10px;
-    height: 400px;
+    height: 500px;
 }
 
 .link-button {
